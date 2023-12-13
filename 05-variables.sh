@@ -3,5 +3,5 @@
 echo "Please enter Username:"
 
 read USERNAME
-
-echo "Username is:  $USERNAME
+ 
+echo "Username is:  $USERNAME"
